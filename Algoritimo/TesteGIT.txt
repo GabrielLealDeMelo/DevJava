@@ -1,1 +1,11 @@
 Teste GIT Gabriel
+
+-------------------------------------------------------------
+
+cd c:
+cd DevJava
+git add --all
+git commit -m "Inicio"
+git push origin master
+
+------------------------------------------------------------
